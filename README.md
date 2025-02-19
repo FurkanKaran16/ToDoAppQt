@@ -1,5 +1,5 @@
 # ToDoAppQt
-To Do App in Qt
+This is a simple To-Do application built using C++ and the Qt framework.
 
 ## How does it work?
 What you do in the To Do App is saved in the "toDoFile.txt" file,
